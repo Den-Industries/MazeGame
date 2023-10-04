@@ -19,3 +19,6 @@ F - communication
 K + mouse hover - a magic tangle, shows the path to the specified point
 In the menu, you can select the language and game mode.
 At the end of the game, a bunch of statistics for the game are shown
+# For installing
+Copy data folder, main.cpp, global.cpp and compile
+Or if u trust me - use exe
